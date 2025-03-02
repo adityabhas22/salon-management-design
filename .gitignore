@@ -26,12 +26,11 @@ venv/
 env/
 ENV/
 
-# Environment variables
-my_salon_app/.env
-my_salon_app/.env.local
-my_salon_app/.env.development
-my_salon_app/.env.test
-my_salon_app/.env.production
+.env
+.env.local
+.env.development
+.env.test
+.env.production
 
 # IDE specific files
 .idea/
