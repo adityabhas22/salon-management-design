@@ -27,7 +27,7 @@ env/
 ENV/
 
 # Environment variables
-my_salon_app/env
+my_salon_app/.env
 my_salon_app/.env.local
 my_salon_app/.env.development
 my_salon_app/.env.test
